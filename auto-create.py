@@ -7,4 +7,4 @@ hunter=platform.architecture()[0]
 if hunter=="32bit":
     os.system("clear");exit("\033[91;1m Sorry Brother 32 Bit Device Not Supported")
 elif hunter=="64bit":
-    __import__("p64")
+    __import__("RzR")
